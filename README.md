@@ -39,7 +39,7 @@
 👤 **Yuri de Albuquerque Ramos**  
 🔹 Engenheiro e Analista de Dados  
 🔹 Experiência com ETL/ELT, Power BI, Databricks, Azure e automação de dados  
-🔹 Portfólio: [https://portfolio-yuri-albuquerque.netlify.app/](https://portfolio-yuri-albuquerque.netlify.app/)
+🔹 Portfólio: [https://portfolio-yuri-albuquerque.netlify.app/](https://portfolio-yuri-albuquerque.netlify.app/)  
 📧 **Contato:** yurialbuquerque_analito@outlook.com  
 💼 [LinkedIn](https://www.linkedin.com/in/yuri-albuquerque-ramos/)
 
